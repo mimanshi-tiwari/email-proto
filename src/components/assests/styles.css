@@ -1,0 +1,20 @@
+.mailListContainer {
+  display: flex;
+}
+ul {
+  width: 40%;
+}
+li {
+  cursor: pointer;
+}
+
+.mailList {
+  list-style: none;
+  height: fit-content;
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+.detailSubContainer {
+  padding: 30px;
+}

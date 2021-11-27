@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "country": "Country 1",
+            "visits": 74
+        },
+        {
+            "country": "Country 2",
+            "visits": 89
+        },
+        {
+            "country": "Country 3",
+            "visits": 59
+        },
+        {
+            "country": "Country 4",
+            "visits": 53
+        },
+        {
+            "country": "Country 5",
+            "visits": 95
+        },
+        {
+            "country": "Country 6",
+            "visits": 53
+        },
+        {
+            "country": "Country 7",
+            "visits": 46
+        },
+        {
+            "country": "Country 8",
+            "visits": 40
+        },
+        {
+            "country": "Country 9",
+            "visits": 69
+        }
+    ]
+}
